@@ -1,0 +1,9 @@
+[submodule "LAB2-Part2"]
+	path = LAB2-Part2
+	url = https://github.com/skillznathan/LAB2-Part2.git
+[submodule "PIZZAPARTY"]
+	path = PIZZAPARTY
+	url = https://github.com/skillznathan/PIZZAPARTY.git
+[submodule "LAB2"]
+	path = LAB2
+	url = https://github.com/skillznathan/LAB2.git
